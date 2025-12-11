@@ -86,3 +86,11 @@ function SendTextMessage(msg)
         --EXAMPLE USED IN VIDEO
        exports['mythic_notify']:SendAlert('inform', msg)
 end
+
+
+
+---Change any of these config options to your liking and make sure you only change the ones you know otherwise ask for help
+
+
+QuirkyCarlos 
+
